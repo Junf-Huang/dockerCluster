@@ -1,0 +1,4 @@
+[mysqld_safe]
+log-error=/var/log/mysql/mysql.err
+#skip_log_error
+#syslog

@@ -1,0 +1,224 @@
+学生套餐: 47.102.216.208      430626      web-manager
+数据库:   39.98.213.225          653352   mariadb-1
+         47.92.233.111      mariabd-2
+         39.98.233.44       hap-db 
+         39.98.74.46        hap-web
+         39.98.209.195      web-1
+         47.92.68.112       web-2
+scp .ssh/id_rsa.pub  root@47.102.216.208:/root/.ssh/authorized_keys
+scp ./sshd_config root@39.98.213.225:/etc/ssh/
+systemctl restart ssh.service
+
+
+apt-get install mariadb-server
+apt-get install openjdk-8-jdk
+
+docker-machine create -d generic \
+    --engine-registry-mirror=https://registry.docker-cn.com \
+    --generic-ip-address=47.102.216.208 \
+    --generic-ssh-port=29249 \
+    --generic-ssh-user=root \
+    --generic-ssh-key ~/.ssh/id_rsa \
+    mariadb-1
+
+卸载
+apt-get purge docker-ce
+rm -rf /var/lib/docker
+apt autoremove
+
+
+# 安装中断，证书重建
+docker-machine regenerate-certs dockerVirtualbox
+docker-machine create --driver virtualbox --engine-registry-mirror=https://registry.docker-cn.com host1
+
+docker volume create mariadb_data
+docker volume create mariadb_conf
+docker pull mariadb
+
+--mount type=volume,source=galera-vol,destination=/var/lib/mysql \
+--mount type=bind,src=/mnt/docker/mysql-config,dst=/etc/my.cnf.d \
+
+docker run -d -it \
+  -p 3306:3306 \
+  -p 4567:4567 \
+  -p 4568:4568 \
+  -p 4444:4444 \
+  -v mariadb_data:/var/lib/mysql \
+  -v mariadb_conf:/etc/mysql \
+  -e MYSQL_ROOT_PASSWORD=root \
+  --name mariadb-1 \
+  mariadb \
+
+service mysql start --wsrep-new-cluster
+service mysql start
+
+修改mysql配置文件my.cnf，在[mysqld]段中添加或修改max_connections值：
+max_connections=512
+
+SELECT user, host FROM mysql.proxies_priv;
+DELETE FROM mysql.proxies_priv WHERE host = '2431f9e471f2';
+
+show status like 'wsrep_cluster_size';
+CREATE USER 'hjj'@'%' IDENTIFIED BY 'hjj';
+create database bookstore;
+grant all on *.* to 'hjj'@'%';
+flush  privileges;
+DROP USER 'username'@'host';
+
+设置最大连接数
+set GLOBAL max_connections=1024;
+show variables like '%max_connections%';
+show global status like 'Max_used_connections';
+
+http://galeracluster.com/documentation-webpages/arbitrator.html
+apt-get install galera-arbitrator-3
+vim arbtirator.config
+group = galere_cluster
+address = gcomm://39.98.213.225:4567,47.92.233.111:4567
+garbd -d --cfg /root/arbtirator.config
+
+单节点恢复
+docker contianer start
+docker exec -it    bash
+service mysql start
+
+docker container prune 
+docker run 
+docker exec -it  bash
+service mysql start
+
+数据库集群恢复
+简单的方式
+mysqld --wsrep-recover
+
+手动轮流启动
+启动第一个节点（seqno值为最大）
+service mysql start --wsrep-new-cluster
+service mysql start
+
+
+
+docker swarm init --advertise-addr <MANAGER-IP>
+docker swarm join-token worker
+docker swarm join-token manager
+haproxy:
+docker swarm init --advertise-addr 39.98.213.225
+docker swarm join --token SWMTKN-1-06pdnannnkka65yg6qjbb1z4mqrkeed09uankuwklqiw2klo62-7b2adpfh7ankc1kdw3u05cqb8 39.98.213.225:2377
+
+为节点设置标签
+docker node update --label-add role=nginx web-1
+docker node update --label-add role=web web-2
+docker node update --label-add role=hapdb hap-db
+
+
+docker service create --replicas 1 --name helloworld alpine ping docker.com
+该--name标志命名该服​​务helloworld。
+该--replicas标志指定1个正在运行的实例的所需状态。
+参数alpine ping docker.com将服务定义为执行命令的Alpine Linux容器ping docker.com。
+docker service create \
+  --name my-web \
+  --publish published=8080,target=80 \
+  --replicas 3 \
+  --network my-network \
+  nginx
+全部节点均可访问
+
+docker service create \
+  --replicas 3 \
+  --network my-network \
+  --name my-web \
+  nginx
+
+#   只能通过manager端的hostName来访问
+curl http://Arch:8080
+#   查看服务的已发布端口
+docker service inspect --format="{{json .Endpoint.Spec.Ports}}" my-web
+#   更新端口
+docker service update \
+  --publish-add published=<PUBLISHED-PORT>,target=<CONTAINER-PORT> \
+  <SERVICE>
+
+docker service inspect --pretty helloworld  服务的详细信息
+docker service ps helloworld                查看正在运行服务的节点,节点状态记录
+Run docker ps on the node where the task is running to see details about the container for the task.
+docker service scale web=3                  scale可以增加容器，也可以减少容器
+docker service rm helloworld
+
+更新服务镜像：
+docker service update --image redis:3.0.7 redis(服务名)
+docker service update --network-add my-network my-web   连接到覆盖网络
+docker service update --network-rm my-network my-web    断开
+docker service inspect --pretty redis   查看所需状态的新图像
+docker service update redis             更新提供服务的容器中的一些信息，比如：端口、数据卷、镜像等等
+docker service ps <SERVICE-NAME>        以观看滚动更新
+#   排空已分配任务的节点,节点的状态（包括DRAIN）仅影响节点调度swarm服务工作负载的能力
+docker node update --availability drain worker1
+docker node inspect --pretty worker1    检查节点以检查其可用性
+#节点标签
+docker node update --label-add role=web web-2 
+#   恢复
+docker node update --availability active worker1
+
+#   关联网络
+docker service create --name myService --network my_ntwk -p 8080:8080 --replicas 5 an_image
+
+查看
+docker node ls
+docker service ls
+docker service ps my-web
+docker service ps --no-trunc my-web
+sudo journalctl -u docker.service | tail -n 50
+docker service logs 
+
+docker-machine start host2
+docker stack ps getstartedlab
+eval $(docker-machine env host1)
+docker container ls -a
+
+
+docker service create \
+ --name my-web \
+ --network ol_net \
+ --publish published=80,target=80 \
+ --replicas 2 \
+ nginx
+
+  hap:
+    image: junf/haproxy
+    networks: 
+     - hap_net
+    ports:
+     - "1080:1080"
+     - "3307:3307"
+    networks: 
+      - network1
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+
+book_web
+replicas: 2
+云主机受不了，CPU爆炸
+node status down 
+云主机出故障
+
+docker真占内存多
+
+使用 tail 查看 log 尾部
+docker logs --tail 20 <CONTAINER>
+根据时间查看 log
+docker logs --since 2018-09-25T12:01:46.452616Z <CONTAINER>
+
+
+提示：docker container里运行ipvsadm，宿主机必须先安装ipsadm!
+https://www.cnblogs.com/XiongMaoMengNan/p/8056211.html
+
+
+ECS killed  Out of memory: Kill process
+/var/log/syslog
+https://www.cnblogs.com/Amos-Turing/p/9480873.html
+
+sed -i '/home/d' *-result.jtl 
+sed -i 's/BuyBook-0/BuyBook/g' *-result.jtl
+jmeter -g 80-result.jtl -o ./80

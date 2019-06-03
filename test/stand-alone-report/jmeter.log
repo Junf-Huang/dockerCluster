@@ -1,0 +1,44 @@
+2019-05-29 19:50:34,419 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-05-29 19:50:34,434 INFO o.a.j.JMeter: Loading user properties from: /opt/apache-jmeter-5.1.1/bin/user.properties
+2019-05-29 19:50:34,435 INFO o.a.j.JMeter: Loading system properties from: /opt/apache-jmeter-5.1.1/bin/system.properties
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: java.version=1.8.0_151
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: os.name=Linux
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: os.arch=amd64
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: os.version=5.0.7-arch1-1-ARCH
+2019-05-29 19:50:34,442 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-05-29 19:50:34,443 INFO o.a.j.JMeter: java.awt.headless=null
+2019-05-29 19:50:34,443 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-05-29 19:50:34,443 INFO o.a.j.JMeter: Available Processors =4
+2019-05-29 19:50:34,447 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-05-29 19:50:34,447 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-05-29 19:50:34,447 INFO o.a.j.JMeter: JMeterHome=/opt/apache-jmeter-5.1.1
+2019-05-29 19:50:34,447 INFO o.a.j.JMeter: user.dir  =/home/junf/MyProject/docker/bookStore/test/stand-alone-report
+2019-05-29 19:50:34,447 INFO o.a.j.JMeter: PWD       =/home/junf/MyProject/docker/bookStore/test/stand-alone-report
+2019-05-29 19:50:34,448 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: Arch FullName: Arch.localdomain
+2019-05-29 19:50:34,621 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-05-29 19:50:34,660 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Darcula]
+2019-05-29 19:50:34,660 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.metal.MetalLookAndFeel
+2019-05-29 19:50:34,666 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-05-29 19:50:36,420 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-05-29 19:50:36,421 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-05-29 19:50:36,421 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-05-29 19:50:36,421 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-05-29 19:50:36,421 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-05-29 19:50:36,422 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-05-29 19:50:36,813 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-05-29 19:50:36,813 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /opt/apache-jmeter-5.1.1/bin/proxyserver.jks
+2019-05-29 19:50:36,975 INFO o.a.j.s.FileServer: Default base='/home/junf/MyProject/docker/bookStore/test/stand-alone-report'
+2019-05-29 19:50:37,368 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-05-29 19:50:37,368 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-05-29 19:50:37,368 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-05-29 19:50:37,369 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-05-29 19:50:42,509 INFO o.a.j.g.a.Load: Loading file: /home/junf/MyProject/docker/bookStore/test/distribute-test.jmx
+2019-05-29 19:50:42,509 INFO o.a.j.s.FileServer: Set new base='/home/junf/MyProject/docker/bookStore/test'
+2019-05-29 19:50:42,688 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-05-29 19:50:42,704 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-05-29 19:50:42,707 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-05-29 19:50:42,711 INFO o.a.j.s.SaveService: Loading file: /home/junf/MyProject/docker/bookStore/test/distribute-test.jmx
+2019-05-29 19:50:43,034 INFO o.a.j.s.FileServer: Set new base='/home/junf/MyProject/docker/bookStore/test'

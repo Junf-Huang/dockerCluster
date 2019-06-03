@@ -1,0 +1,548 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1558456803604,1970,SearchBooks,200,,stand-alone Test 1-93,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,1872,0,53
+1558456803566,2017,SearchBooks,200,,stand-alone Test 1-89,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,1941,0,59
+1558456803534,2061,SearchBooks,200,,stand-alone Test 1-86,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,1967,0,62
+1558456803487,2122,SearchBooks,200,,stand-alone Test 1-81,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2049,0,75
+1558456803553,2056,SearchBooks,200,,stand-alone Test 1-88,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,1997,0,49
+1558456803334,2277,SearchBooks,200,,stand-alone Test 1-66,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2130,0,87
+1558456803507,2117,SearchBooks,200,,stand-alone Test 1-83,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2001,0,62
+1558456803514,2135,SearchBooks,200,,stand-alone Test 1-84,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,1950,0,72
+1558456803196,2578,SearchBooks,200,,stand-alone Test 1-52,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2288,0,116
+1558456802927,2848,SearchBooks,200,,stand-alone Test 1-19,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2707,0,354
+1558456803426,2350,SearchBooks,200,,stand-alone Test 1-75,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2043,0,116
+1558456803304,2476,SearchBooks,200,,stand-alone Test 1-62,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2321,0,96
+1558456803324,2777,SearchBooks,200,,stand-alone Test 1-65,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2450,0,95
+1558456803366,2851,SearchBooks,200,,stand-alone Test 1-69,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2296,0,57
+1558456803321,3031,SearchBooks,200,,stand-alone Test 1-64,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2397,0,95
+1558456803049,3328,SearchBooks,200,,stand-alone Test 1-37,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2628,0,259
+1558456803314,3063,SearchBooks,200,,stand-alone Test 1-63,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2410,0,105
+1558456802928,3450,SearchBooks,200,,stand-alone Test 1-2,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2712,0,371
+1558456803144,3789,SearchBooks,200,,stand-alone Test 1-47,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2574,0,168
+1558456803044,3890,SearchBooks,200,,stand-alone Test 1-36,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2674,0,268
+1558456803125,3809,SearchBooks,200,,stand-alone Test 1-45,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,2786,0,185
+1558456803165,3772,SearchBooks,200,,stand-alone Test 1-48,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2717,0,160
+1558456802923,4099,SearchBooks,200,,stand-alone Test 1-22,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3124,0,377
+1558456803194,3829,SearchBooks,200,,stand-alone Test 1-51,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3023,0,118
+1558456803257,3765,SearchBooks,200,,stand-alone Test 1-58,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2800,0,68
+1558456803095,3928,SearchBooks,200,,stand-alone Test 1-42,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2975,0,213
+1558456802924,4098,SearchBooks,200,,stand-alone Test 1-23,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3154,0,374
+1558456803283,3787,SearchBooks,200,,stand-alone Test 1-60,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3317,0,61
+1558456803634,3436,SearchBooks,200,,stand-alone Test 1-96,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,2760,0,49
+1558456803171,3942,SearchBooks,200,,stand-alone Test 1-49,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3093,0,154
+1558456803025,4088,SearchBooks,200,,stand-alone Test 1-35,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3078,0,285
+1558456803054,4059,SearchBooks,200,,stand-alone Test 1-38,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3045,0,254
+1558456803241,3883,SearchBooks,200,,stand-alone Test 1-56,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3144,0,84
+1558456802925,4200,SearchBooks,200,,stand-alone Test 1-12,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3455,0,384
+1558456802996,4133,SearchBooks,200,,stand-alone Test 1-32,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3650,0,302
+1558456802986,4143,SearchBooks,200,,stand-alone Test 1-31,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3681,0,312
+1558456802925,4206,SearchBooks,200,,stand-alone Test 1-14,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3967,0,374
+1558456803183,3953,SearchBooks,200,,stand-alone Test 1-50,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3778,0,129
+1558456802923,4270,SearchBooks,200,,stand-alone Test 1-7,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4149,0,386
+1558456805775,1694,GetBook,200,,stand-alone Test 1-19,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1691,0,1158
+1558456805781,1692,GetBook,200,,stand-alone Test 1-62,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1690,0,1152
+1558456805777,1696,GetBook,200,,stand-alone Test 1-75,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1673,0,1157
+1558456802942,4645,SearchBooks,200,,stand-alone Test 1-25,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4538,0,358
+1558456803257,4432,SearchBooks,200,,stand-alone Test 1-57,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3998,0,68
+1558456802924,4782,SearchBooks,200,,stand-alone Test 1-5,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4461,0,352
+1558456802927,4843,SearchBooks,200,,stand-alone Test 1-17,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4468,0,358
+1558456806102,1739,GetBook,200,,stand-alone Test 1-65,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1622,0,1027
+1558456802925,4917,SearchBooks,200,,stand-alone Test 1-8,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4190,0,374
+1558456803584,4260,SearchBooks,200,,stand-alone Test 1-91,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3605,0,55
+1558456807470,379,Login,200,,stand-alone Test 1-19,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,379,0,0
+1558456807474,404,Login,200,,stand-alone Test 1-75,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,391,0,0
+1558456807474,407,Login,200,,stand-alone Test 1-62,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,407,0,0
+1558456807024,870,GetBook,200,,stand-alone Test 1-22,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,860,0,360
+1558456806218,1680,GetBook,200,,stand-alone Test 1-69,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1677,0,1256
+1558456807072,856,GetBook,200,,stand-alone Test 1-60,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,848,0,356
+1558456807137,796,GetBook,200,,stand-alone Test 1-50,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,745,0,247
+1558456803493,4468,SearchBooks,200,,stand-alone Test 1-82,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3699,0,86
+1558456807114,855,GetBook,200,,stand-alone Test 1-38,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,789,0,270
+1558456803068,4906,SearchBooks,200,,stand-alone Test 1-39,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4188,0,240
+1558456805774,2200,GetBook,200,,stand-alone Test 1-52,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2107,0,1159
+1558456806935,1042,GetBook,200,,stand-alone Test 1-47,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1008,0,449
+1558456807114,863,GetBook,200,,stand-alone Test 1-35,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,773,0,270
+1558456806353,1624,GetBook,200,,stand-alone Test 1-64,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1538,0,878
+1558456807130,847,GetBook,200,,stand-alone Test 1-32,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,798,0,309
+1558456806377,1603,GetBook,200,,stand-alone Test 1-2,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1602,0,854
+1558456802928,5062,SearchBooks,200,,stand-alone Test 1-1,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4458,0,362
+1558456807124,870,GetBook,200,,stand-alone Test 1-12,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,860,0,276
+1558456807193,857,GetBook,200,,stand-alone Test 1-7,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,831,0,277
+1558456807024,1026,GetBook,200,,stand-alone Test 1-51,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1007,0,377
+1558456806935,1123,GetBook,200,,stand-alone Test 1-36,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1071,0,449
+1558456807072,986,GetBook,200,,stand-alone Test 1-96,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,909,0,347
+1558456802975,5087,SearchBooks,200,,stand-alone Test 1-29,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4470,0,319
+1558456807130,944,GetBook,200,,stand-alone Test 1-14,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,925,0,271
+1558456807024,1050,GetBook,200,,stand-alone Test 1-42,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,982,0,376
+1558456807124,963,GetBook,200,,stand-alone Test 1-56,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,951,0,277
+1558456807843,254,Login,200,,stand-alone Test 1-65,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,254,0,0
+1558456803437,5169,SearchBooks,200,,stand-alone Test 1-76,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4040,0,133
+1558456803286,5320,SearchBooks,200,,stand-alone Test 1-61,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4206,0,58
+1558456803465,5156,SearchBooks,200,,stand-alone Test 1-79,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4029,0,98
+1558456803593,5067,SearchBooks,200,,stand-alone Test 1-92,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3901,0,48
+1558456803214,5451,SearchBooks,200,,stand-alone Test 1-54,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4047,0,96
+1558456803578,5094,SearchBooks,200,,stand-alone Test 1-90,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3917,0,58
+1558456803104,5571,SearchBooks,200,,stand-alone Test 1-43,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4392,0,206
+1558456803205,5478,SearchBooks,200,,stand-alone Test 1-53,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4314,0,105
+1558456803410,5284,SearchBooks,200,,stand-alone Test 1-73,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4109,0,109
+1558456803446,5251,SearchBooks,200,,stand-alone Test 1-77,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4003,0,115
+1558456807982,747,Login,200,,stand-alone Test 1-2,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,747,0,0
+1558456807979,756,Login,200,,stand-alone Test 1-32,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,751,0,0
+1558456807979,758,Login,200,,stand-alone Test 1-47,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,758,0,0
+1558456807979,759,Login,200,,stand-alone Test 1-35,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,759,0,0
+1558456807935,806,Login,200,,stand-alone Test 1-50,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,804,0,0
+1558456807899,842,Login,200,,stand-alone Test 1-69,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,842,0,0
+1558456807896,852,Login,200,,stand-alone Test 1-22,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,852,0,0
+1558456807971,789,Login,200,,stand-alone Test 1-38,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,780,0,0
+1558456807690,1072,GetBook,200,,stand-alone Test 1-57,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1050,0,263
+1558456807979,791,Login,200,,stand-alone Test 1-64,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,785,0,0
+1558456807587,1198,GetBook,200,,stand-alone Test 1-25,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1183,0,327
+1558456807845,945,GetBook,200,,stand-alone Test 1-91,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,931,0,251
+1558456807929,862,Login,200,,stand-alone Test 1-60,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,799,0,0
+1558456807706,1088,GetBook,200,,stand-alone Test 1-5,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1084,0,249
+1558456807770,1071,GetBook,200,,stand-alone Test 1-17,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1060,0,293
+1558456807024,1825,GetBook,200,,stand-alone Test 1-58,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1065,0,395
+1558456803005,5855,SearchBooks,200,,stand-alone Test 1-33,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3687,0,300
+1558456803075,6048,SearchBooks,200,,stand-alone Test 1-40,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3983,0,237
+1558456803664,5510,SearchBooks,200,,stand-alone Test 1-99,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3870,0,133
+1558456803273,5931,SearchBooks,200,,stand-alone Test 1-59,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3642,0,56
+1558456803676,5612,SearchBooks,200,,stand-alone Test 1-100,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3856,0,123
+1558456802928,6363,SearchBooks,200,,stand-alone Test 1-3,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4322,0,374
+1558456806377,2915,GetBook,200,,stand-alone Test 1-63,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1712,0,1154
+1558456806935,2396,GetBook,200,,stand-alone Test 1-45,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1138,0,449
+1558456808851,499,Login,200,,stand-alone Test 1-58,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,499,0,0
+1558456806377,2973,GetBook,200,,stand-alone Test 1-37,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1710,0,854
+1558456803545,5809,SearchBooks,200,,stand-alone Test 1-87,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3920,0,51
+1558456802933,6426,SearchBooks,200,,stand-alone Test 1-20,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4468,0,361
+1558456802928,6435,SearchBooks,200,,stand-alone Test 1-4,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4549,0,371
+1558456802928,6437,SearchBooks,200,,stand-alone Test 1-6,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4592,0,362
+1558456802947,6418,SearchBooks,200,,stand-alone Test 1-27,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4532,0,334
+1558456803354,6012,SearchBooks,200,,stand-alone Test 1-68,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4124,0,69
+1558456807975,1401,Login,200,,stand-alone Test 1-52,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,1307,0,701
+1558456808796,611,Login,200,,stand-alone Test 1-5,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,611,0,0
+1558456808786,621,Login,200,,stand-alone Test 1-25,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,621,0,0
+1558456808791,628,Login,200,,stand-alone Test 1-91,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,627,0,0
+1558456808843,585,Login,200,,stand-alone Test 1-17,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,585,0,0
+1558456802919,6514,SearchBooks,200,,stand-alone Test 1-16,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4962,0,386
+1558456808763,675,Login,200,,stand-alone Test 1-57,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,619,0,0
+1558456802925,6513,SearchBooks,200,,stand-alone Test 1-13,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4205,0,356
+1558456802954,6503,SearchBooks,200,,stand-alone Test 1-28,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4180,0,324
+1558456807975,1484,GetBook,200,,stand-alone Test 1-39,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1483,0,690
+1558456807990,1469,GetBook,200,,stand-alone Test 1-1,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1430,0,708
+1558456803228,6241,SearchBooks,200,,stand-alone Test 1-55,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4795,0,82
+1558456807964,1520,GetBook,200,,stand-alone Test 1-82,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1495,0,712
+1558456803644,5839,SearchBooks,200,,stand-alone Test 1-97,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4290,0,51
+1558456808063,1421,GetBook,200,,stand-alone Test 1-29,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1372,0,643
+1558456803616,5874,SearchBooks,200,,stand-alone Test 1-94,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4325,0,53
+1558456802928,6600,SearchBooks,200,,stand-alone Test 1-11,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4197,0,358
+1558456803453,6095,SearchBooks,200,,stand-alone Test 1-78,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3776,0,123
+1558456808608,951,GetBook,200,,stand-alone Test 1-76,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,926,0,608
+1558456803115,6446,SearchBooks,200,,stand-alone Test 1-44,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4041,0,193
+1558456808623,959,GetBook,200,,stand-alone Test 1-79,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,911,0,596
+1558456808685,905,GetBook,200,,stand-alone Test 1-53,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,869,0,588
+1558456808662,928,GetBook,200,,stand-alone Test 1-92,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,921,0,560
+1558456808666,925,GetBook,200,,stand-alone Test 1-54,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,884,0,607
+1558456808673,924,GetBook,200,,stand-alone Test 1-90,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,900,0,554
+1558456808608,1009,GetBook,200,,stand-alone Test 1-61,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,921,0,608
+1558456808676,941,GetBook,200,,stand-alone Test 1-43,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,941,0,581
+1558456808699,928,GetBook,200,,stand-alone Test 1-77,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,922,0,591
+1558456808695,933,GetBook,200,,stand-alone Test 1-73,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,923,0,592
+1558456802924,6715,SearchBooks,200,,stand-alone Test 1-15,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4615,0,353
+1558456802927,6732,SearchBooks,200,,stand-alone Test 1-18,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4607,0,347
+1558456802927,6734,SearchBooks,200,,stand-alone Test 1-21,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4607,0,367
+1558456803624,6039,SearchBooks,200,,stand-alone Test 1-95,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3643,0,52
+1558456805579,4089,GetBook,200,,stand-alone Test 1-93,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1940,0,0
+1558456802980,6717,SearchBooks,200,,stand-alone Test 1-30,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4144,0,328
+1558456803393,6305,SearchBooks,200,,stand-alone Test 1-72,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3819,0,123
+1558456803349,6378,SearchBooks,200,,stand-alone Test 1-67,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3906,0,74
+1558456809485,268,Login,200,,stand-alone Test 1-29,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,266,0,0
+1558456809485,273,Login,200,,stand-alone Test 1-82,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,269,0,0
+1558456803654,6105,SearchBooks,200,,stand-alone Test 1-98,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3609,0,51
+1558456809459,303,Login,200,,stand-alone Test 1-39,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,301,0,0
+1558456809175,597,GetBook,200,,stand-alone Test 1-99,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,588,0,203
+1558456809460,312,Login,200,,stand-alone Test 1-1,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,272,0,0
+1558456802945,6841,SearchBooks,200,,stand-alone Test 1-26,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4316,0,360
+1558456808862,981,GetBook,200,,stand-alone Test 1-33,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,913,0,502
+1558456809125,718,GetBook,200,,stand-alone Test 1-40,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,718,0,249
+1558456807130,2736,GetBook,200,,stand-alone Test 1-31,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2166,0,298
+1558456803414,6454,SearchBooks,200,,stand-alone Test 1-74,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3720,0,109
+1558456802920,6948,SearchBooks,200,,stand-alone Test 1-24,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4862,0,370
+1558456809294,576,Login,200,,stand-alone Test 1-63,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,575,0,250
+1558456803474,6415,SearchBooks,200,,stand-alone Test 1-80,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,3793,0,105
+1558456807025,2865,GetBook,200,,stand-alone Test 1-23,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2317,0,394
+1558456809351,540,Login,200,,stand-alone Test 1-37,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,540,0,231
+1558456802934,6957,SearchBooks,200,,stand-alone Test 1-9,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4203,0,344
+1558456806938,2953,GetBook,200,,stand-alone Test 1-48,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2405,0,490
+1558456803524,6367,SearchBooks,200,,stand-alone Test 1-85,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3965,0,70
+1558456803015,6876,SearchBooks,200,,stand-alone Test 1-34,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4467,0,290
+1558456809591,302,Login,200,,stand-alone Test 1-53,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,302,0,0
+1558456809560,333,Login,200,,stand-alone Test 1-76,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,333,0,0
+1558456809592,320,Login,200,,stand-alone Test 1-92,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,319,0,0
+1558456809332,600,Login,200,,stand-alone Test 1-45,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,600,0,223
+1558456809591,341,Login,200,,stand-alone Test 1-54,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,341,0,0
+1558456809598,334,Login,200,,stand-alone Test 1-90,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,334,0,0
+1558456809583,349,Login,200,,stand-alone Test 1-79,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,349,0,0
+1558456809617,317,Login,200,,stand-alone Test 1-43,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,317,0,0
+1558456809617,317,Login,200,,stand-alone Test 1-61,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,317,0,0
+1558456809627,314,Login,200,,stand-alone Test 1-77,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,308,0,0
+1558456809628,320,Login,200,,stand-alone Test 1-73,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,316,0,0
+1558456803386,6570,SearchBooks,200,,stand-alone Test 1-71,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4442,0,127
+1558456803376,6654,SearchBooks,200,,stand-alone Test 1-70,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,4465,0,51
+1558456802928,7105,SearchBooks,200,,stand-alone Test 1-10,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,4556,0,361
+1558456809289,746,GetBook,200,,stand-alone Test 1-100,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,716,0,239
+1558456809355,687,GetBook,200,,stand-alone Test 1-87,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,638,0,244
+1558456809291,752,GetBook,200,,stand-alone Test 1-3,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,676,0,238
+1558456809360,690,GetBook,200,,stand-alone Test 1-20,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,675,0,269
+1558456809366,701,GetBook,200,,stand-alone Test 1-6,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,688,0,282
+1558456809773,299,Login,200,,stand-alone Test 1-99,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,299,0,0
+1558456809471,609,GetBook,200,,stand-alone Test 1-55,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,581,0,245
+1558456809459,621,GetBook,200,,stand-alone Test 1-28,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,621,0,257
+1558456807851,1004,BuyBook,302,,stand-alone Test 1-19,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,1004,0,245
+1558456809844,262,Login,200,,stand-alone Test 1-33,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,262,0,0
+1558456808098,763,BuyBook,302,,stand-alone Test 1-65,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,763,0,0
+1558456809844,263,Login,200,,stand-alone Test 1-40,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,262,0,0
+1558456809485,644,GetBook,200,,stand-alone Test 1-97,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,610,0,246
+1558456809435,734,GetBook,200,,stand-alone Test 1-16,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,650,0,264
+1558456809491,712,GetBook,200,,stand-alone Test 1-94,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,615,0,267
+1558456807879,1579,BuyBook,302,,stand-alone Test 1-75,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,1579,0,719
+1558456808076,2155,Login,200,,stand-alone Test 1-14,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,1956,0,0
+1558456809550,710,GetBook,200,,stand-alone Test 1-78,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,603,0,319
+1558456809376,386,BuyBook,302,,stand-alone Test 1-52,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,386,0,0
+1558456808749,679,BuyBook,302,,stand-alone Test 1-22,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,679,0,0
+1558456808737,706,BuyBook,302,,stand-alone Test 1-47,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,706,0,0
+1558456809367,907,GetBook,200,,stand-alone Test 1-27,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,705,0,271
+1558456808770,865,BuyBook,302,,stand-alone Test 1-64,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,865,0,571
+1558456808052,2297,Login,200,,stand-alone Test 1-51,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,749,0,0
+1558456810204,171,Login,200,,stand-alone Test 1-94,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,170,0,0
+1558456810050,351,Login,200,,stand-alone Test 1-20,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,351,0,0
+1558456810081,341,Login,200,,stand-alone Test 1-28,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,340,0,0
+1558456810068,354,Login,200,,stand-alone Test 1-6,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,353,0,0
+1558456808739,789,BuyBook,302,,stand-alone Test 1-35,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,789,0,0
+1558456808052,2380,Login,200,,stand-alone Test 1-7,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,745,0,0
+1558456808792,736,BuyBook,302,,stand-alone Test 1-60,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,736,0,0
+1558456810260,177,Login,200,,stand-alone Test 1-78,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,127,0,0
+1558456809529,930,GetBook,200,,stand-alone Test 1-11,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,681,0,297
+1558456809439,1020,GetBook,200,,stand-alone Test 1-13,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,641,0,277
+1558456808760,768,BuyBook,302,,stand-alone Test 1-38,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,768,0,0
+1558456809670,790,Login,200,,stand-alone Test 1-93,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,790,0,326
+1558456810130,336,Login,200,,stand-alone Test 1-97,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,336,0,0
+1558456810035,439,Login,200,,stand-alone Test 1-100,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,431,0,0
+1558456810081,407,Login,200,,stand-alone Test 1-55,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,407,0,0
+1558456810170,321,Login,200,,stand-alone Test 1-16,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,319,0,0
+1558456809891,609,Login,200,,stand-alone Test 1-23,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,609,0,312
+1558456810043,460,Login,200,,stand-alone Test 1-87,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,460,0,0
+1558456810275,264,Login,200,,stand-alone Test 1-27,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,263,0,0
+1558456810043,499,Login,200,,stand-alone Test 1-3,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,498,0,0
+1558456809699,845,GetBook,200,,stand-alone Test 1-72,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,828,0,332
+1558456809868,681,Login,200,,stand-alone Test 1-31,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,679,0,261
+1558456809663,886,GetBook,200,,stand-alone Test 1-21,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,848,0,318
+1558456808736,794,BuyBook,302,,stand-alone Test 1-32,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,794,0,0
+1558456808741,821,BuyBook,302,,stand-alone Test 1-50,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,821,0,0
+1558456807883,1575,BuyBook,302,,stand-alone Test 1-62,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,1575,0,724
+1558456810460,136,Login,200,,stand-alone Test 1-11,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,120,0,0
+1558456810460,136,Login,200,,stand-alone Test 1-13,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,136,0,0
+1558456810544,79,Login,200,,stand-alone Test 1-72,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,79,0,0
+1558456810549,76,Login,200,,stand-alone Test 1-21,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,76,0,0
+1558456809699,950,GetBook,200,,stand-alone Test 1-30,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,942,0,320
+1558456809660,989,GetBook,200,,stand-alone Test 1-18,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,965,0,307
+1558456808730,868,BuyBook,302,,stand-alone Test 1-2,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,868,0,553
+1558456809563,1093,GetBook,200,,stand-alone Test 1-44,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1087,0,327
+1558456809664,992,GetBook,200,,stand-alone Test 1-95,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,977,0,317
+1558456808741,896,BuyBook,302,,stand-alone Test 1-69,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,896,0,589
+1558456805650,5053,GetBook,200,,stand-alone Test 1-84,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2150,0,1041
+1558456809870,843,GetBook,200,,stand-alone Test 1-74,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,843,0,259
+1558456809728,991,GetBook,200,,stand-alone Test 1-67,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,985,0,314
+1558456809891,829,GetBook,200,,stand-alone Test 1-80,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,813,0,312
+1558456810033,723,GetBook,200,,stand-alone Test 1-10,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,718,0,198
+1558456810429,333,SearchBooks,200,,stand-alone Test 1-35,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,241,0,124
+1558456810650,117,Login,200,,stand-alone Test 1-30,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,116,0,0
+1558456810650,135,Login,200,,stand-alone Test 1-18,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,134,0,0
+1558456809350,677,BuyBook,302,,stand-alone Test 1-58,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,677,0,232
+1558456810657,130,Login,200,,stand-alone Test 1-44,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,129,0,0
+1558456810657,130,Login,200,,stand-alone Test 1-95,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,128,0,0
+1558456805612,5174,GetBook,200,,stand-alone Test 1-66,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,2184,0,1079
+1558456809892,947,GetBook,200,,stand-alone Test 1-9,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,867,0,311
+1558456810720,119,Login,200,,stand-alone Test 1-67,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,119,0,0
+1558456810720,119,Login,200,,stand-alone Test 1-80,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,119,0,0
+1558456810713,126,Login,200,,stand-alone Test 1-74,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,126,0,0
+1558456809419,515,BuyBook,302,,stand-alone Test 1-91,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,515,0,0
+1558456810756,147,Login,200,,stand-alone Test 1-10,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,147,0,0
+1558456809958,991,GetBook,200,,stand-alone Test 1-71,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,985,0,251
+1558456809763,366,BuyBook,302,,stand-alone Test 1-39,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,366,0,0
+1558456810840,124,Login,200,,stand-alone Test 1-9,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,124,0,0
+1558456810704,262,Login,200,,stand-alone Test 1-84,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,262,0,94
+1558456808088,2878,Login,200,,stand-alone Test 1-56,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,2814,0,0
+1558456809428,506,BuyBook,302,,stand-alone Test 1-17,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,506,0,0
+1558456809408,483,BuyBook,302,,stand-alone Test 1-25,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,483,0,0
+1558456809367,1609,GetBook,200,,stand-alone Test 1-68,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,806,0,278
+1558456809759,336,BuyBook,302,,stand-alone Test 1-82,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,336,0,0
+1558456809773,333,BuyBook,302,,stand-alone Test 1-1,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,333,0,0
+1558456809439,453,BuyBook,302,,stand-alone Test 1-57,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,453,0,0
+1558456810949,128,Login,200,,stand-alone Test 1-71,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,127,0,0
+1558456810788,291,Login,200,,stand-alone Test 1-66,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,291,0,163
+1558456810976,104,Login,200,,stand-alone Test 1-68,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,103,0,0
+1558456809892,1193,Login,200,,stand-alone Test 1-48,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,1191,0,1075
+1558456809205,1902,GetBook,200,,stand-alone Test 1-59,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,782,0,223
+1558456808076,3066,Login,200,,stand-alone Test 1-42,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,3005,0,0
+1558456808060,3082,Login,200,,stand-alone Test 1-96,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,3021,0,0
+1558456807995,3173,Login,200,,stand-alone Test 1-12,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,3113,0,0
+1558456811107,80,Login,200,,stand-alone Test 1-59,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,77,0,0
+1558456805624,5594,GetBook,200,,stand-alone Test 1-83,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,5480,0,1066
+1558456808060,3226,Login,200,,stand-alone Test 1-36,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,3177,0,0
+1558456811219,116,Login,200,,stand-alone Test 1-83,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,114,0,51
+1558456805583,5879,GetBook,200,,stand-alone Test 1-89,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1693,0,995
+1558456805596,5870,GetBook,200,,stand-alone Test 1-86,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1788,0,983
+1558456805609,5863,GetBook,200,,stand-alone Test 1-88,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1667,0,976
+1558456805609,5868,GetBook,200,,stand-alone Test 1-81,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1667,0,1046
+1558456811474,120,Login,200,,stand-alone Test 1-88,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,117,0,52
+1558456809363,2245,GetBook,200,,stand-alone Test 1-4,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,687,0,284
+1558456811464,144,Login,200,,stand-alone Test 1-89,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,139,0,62
+1558456811478,129,Login,200,,stand-alone Test 1-81,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,125,0,50
+1558456811467,141,Login,200,,stand-alone Test 1-86,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,136,0,58
+1558456811608,111,Login,200,,stand-alone Test 1-4,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,109,0,54
+1558456803085,8644,SearchBooks,200,,stand-alone Test 1-41,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,3940,0,225
+1558456807843,4252,GetBook,200,,stand-alone Test 1-8,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,1001,0,252
+1558456812095,111,Login,200,,stand-alone Test 1-8,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,110,0,54
+1558456803134,17349,SearchBooks,200,,stand-alone Test 1-46,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,6530,0,174
+1558456807114,19098,GetBook,200,,stand-alone Test 1-49,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,3496,0,286
+1558456826213,192,Login,200,,stand-alone Test 1-49,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,187,0,116
+1558456809941,30333,BuyBook,200,,stand-alone Test 1-77,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30333,0,0
+1558456809933,30343,BuyBook,200,,stand-alone Test 1-79,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30342,0,0
+1558456809870,30409,BuyBook,200,,stand-alone Test 1-63,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30407,0,0
+1558456809870,30507,GetBook,200,,stand-alone Test 1-24,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30505,0,260
+1558456810032,30352,GetBook,200,,stand-alone Test 1-70,text,true,,6240,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30347,0,199
+1558456809408,459,BuyBook,302,,stand-alone Test 1-5,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,459,0,0
+1558456809761,30683,GetBook,200,,stand-alone Test 1-98,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30682,0,306
+1558456809754,343,BuyBook,302,,stand-alone Test 1-29,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,343,0,0
+1558456810280,30260,SearchBooks,200,,stand-alone Test 1-47,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30207,0,78
+1558456840378,290,Login,200,,stand-alone Test 1-24,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,290,0,61
+1558456840384,304,Login,200,,stand-alone Test 1-70,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,263,0,55
+1558456810503,30185,BuyBook,200,,stand-alone Test 1-87,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30185,0,0
+1558456810466,30229,BuyBook,200,,stand-alone Test 1-97,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30229,0,0
+1558456810489,30209,BuyBook,200,,stand-alone Test 1-55,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30209,0,0
+1558456810095,30614,SearchBooks,200,,stand-alone Test 1-19,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30558,0,172
+1558456810422,30290,BuyBook,200,,stand-alone Test 1-6,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30290,0,0
+1558456810274,30454,SearchBooks,200,,stand-alone Test 1-52,text,true,,13897,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30394,0,84
+1558456810422,30306,BuyBook,200,,stand-alone Test 1-28,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30294,0,0
+1558456810437,30291,BuyBook,200,,stand-alone Test 1-78,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30291,0,0
+1558456810501,30228,BuyBook,200,,stand-alone Test 1-23,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30228,0,0
+1558456810401,30328,BuyBook,200,,stand-alone Test 1-20,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30328,0,0
+1558456810108,30622,SearchBooks,200,,stand-alone Test 1-65,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30622,0,160
+1558456810342,30393,SearchBooks,200,,stand-alone Test 1-64,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30393,0,94
+1558456810475,30276,BuyBook,200,,stand-alone Test 1-100,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30276,0,0
+1558456810349,30402,BuyBook,200,,stand-alone Test 1-51,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30402,0,88
+1558456810461,30290,BuyBook,200,,stand-alone Test 1-93,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30290,0,0
+1558456810492,30261,BuyBook,200,,stand-alone Test 1-16,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30260,0,0
+1558456809787,30986,GetBook,200,,stand-alone Test 1-26,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30986,0,284
+1558456810210,30563,SearchBooks,200,,stand-alone Test 1-75,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30563,0,70
+1558456809640,31133,GetBook,200,,stand-alone Test 1-15,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,31133,0,310
+1558456809891,570,BuyBook,302,,stand-alone Test 1-37,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,570,0,0
+1558456809933,30841,BuyBook,200,,stand-alone Test 1-54,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30841,0,0
+1558456840444,342,Login,200,,stand-alone Test 1-98,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,302,0,59
+1558456810279,30509,SearchBooks,200,,stand-alone Test 1-22,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30509,0,80
+1558456810540,30316,BuyBook,200,,stand-alone Test 1-27,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30316,0,0
+1558456810461,30403,SearchBooks,200,,stand-alone Test 1-38,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30395,0,120
+1558456810557,30307,SearchBooks,200,,stand-alone Test 1-32,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30307,0,84
+1558456810543,30336,BuyBook,200,,stand-alone Test 1-3,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30336,0,0
+1558456809893,31033,BuyBook,200,,stand-alone Test 1-53,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,31031,0,0
+1558456810107,490,BuyBook,302,,stand-alone Test 1-40,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,490,0,0
+1558456810549,30430,BuyBook,200,,stand-alone Test 1-31,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30423,0,0
+1558456809893,647,BuyBook,302,,stand-alone Test 1-76,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,647,0,0
+1558456809912,629,BuyBook,302,,stand-alone Test 1-92,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,629,0,0
+1558456809935,606,BuyBook,302,,stand-alone Test 1-43,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,606,0,0
+1558456810624,30378,BuyBook,200,,stand-alone Test 1-72,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30373,0,0
+1558456809933,730,BuyBook,302,,stand-alone Test 1-45,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,730,0,0
+1558456810231,30794,BuyBook,200,,stand-alone Test 1-14,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30794,0,118
+1558456810597,30429,BuyBook,200,,stand-alone Test 1-11,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30429,0,0
+1558456810625,30402,BuyBook,200,,stand-alone Test 1-21,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30402,0,0
+1558456809935,31128,BuyBook,200,,stand-alone Test 1-61,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,31091,0,0
+1558456810688,30397,SearchBooks,200,,stand-alone Test 1-69,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30397,0,97
+1558456809949,771,BuyBook,302,,stand-alone Test 1-73,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,771,0,0
+1558456810438,30648,SearchBooks,200,,stand-alone Test 1-60,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30648,0,139
+1558456810767,30320,BuyBook,200,,stand-alone Test 1-30,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30319,0,0
+1558456810650,30437,SearchBooks,200,,stand-alone Test 1-2,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30437,0,112
+1558456810763,30324,GetBook,200,,stand-alone Test 1-35,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30324,0,0
+1558456810787,30301,BuyBook,200,,stand-alone Test 1-95,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30301,0,0
+1558456810582,30516,SearchBooks,200,,stand-alone Test 1-50,text,true,,13906,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30348,0,122
+1558456809892,31230,GetBook,200,,stand-alone Test 1-85,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,31230,0,1075
+1558456810888,30235,SearchBooks,200,,stand-alone Test 1-91,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30223,0,78
+1558456810967,30156,BuyBook,200,,stand-alone Test 1-84,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30155,0,0
+1558456809893,31232,GetBook,200,,stand-alone Test 1-34,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,31231,0,1075
+1558456810786,30340,SearchBooks,200,,stand-alone Test 1-58,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30340,0,163
+1558456840774,458,Login,200,,stand-alone Test 1-15,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,428,0,252
+1558456840774,478,Login,200,,stand-alone Test 1-26,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,473,0,251
+1558456841088,201,Login,200,,stand-alone Test 1-35,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,201,0,75
+1558456811077,30226,BuyBook,200,,stand-alone Test 1-71,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30225,0,0
+1558456810967,30336,BuyBook,200,,stand-alone Test 1-56,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30335,0,96
+1558456810969,30359,SearchBooks,200,,stand-alone Test 1-17,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30359,0,101
+1558456811081,30248,BuyBook,200,,stand-alone Test 1-68,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30247,0,0
+1558456811079,30252,BuyBook,200,,stand-alone Test 1-66,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30252,0,0
+1558456810952,30380,SearchBooks,200,,stand-alone Test 1-39,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30377,0,105
+1558456841122,213,Login,200,,stand-alone Test 1-85,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,213,0,88
+1558456811187,30153,BuyBook,200,,stand-alone Test 1-59,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30148,0,0
+1558456811058,30282,SearchBooks,200,,stand-alone Test 1-1,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30277,0,67
+1558456841126,218,Login,200,,stand-alone Test 1-34,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,214,0,88
+1558456810969,30502,SearchBooks,200,,stand-alone Test 1-25,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30502,0,94
+1558456811054,30417,SearchBooks,200,,stand-alone Test 1-82,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30417,0,61
+1558456811086,30493,BuyBook,200,,stand-alone Test 1-48,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30493,0,0
+1558456811060,30519,SearchBooks,200,,stand-alone Test 1-57,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30519,0,65
+1558456811168,30587,BuyBook,200,,stand-alone Test 1-12,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30587,0,57
+1558456811142,30623,BuyBook,200,,stand-alone Test 1-42,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30623,0,75
+1558456811286,30479,BuyBook,200,,stand-alone Test 1-36,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30479,0,53
+1558456811142,30743,BuyBook,200,,stand-alone Test 1-96,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30743,0,67
+1558456811336,30551,BuyBook,200,,stand-alone Test 1-83,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30549,0,0
+1558456810582,31501,SearchBooks,200,,stand-alone Test 1-62,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,31501,0,1072
+1558456811608,30475,BuyBook,200,,stand-alone Test 1-89,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30475,0,0
+1558456811608,30475,BuyBook,200,,stand-alone Test 1-81,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30475,0,0
+1558456811719,30366,BuyBook,200,,stand-alone Test 1-4,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30361,0,0
+1558456811594,30496,BuyBook,200,,stand-alone Test 1-88,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30496,0,0
+1558456811609,30479,BuyBook,200,,stand-alone Test 1-86,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30479,0,0
+1558456811731,30357,GetBook,200,,stand-alone Test 1-41,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30357,0,55
+1558456812207,30169,BuyBook,200,,stand-alone Test 1-8,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30169,0,0
+1558456842094,282,Login,200,,stand-alone Test 1-41,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,282,0,65
+1558456820485,30232,GetBook,200,,stand-alone Test 1-46,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30232,0,53
+1558456850717,139,Login,200,,stand-alone Test 1-46,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,137,0,68
+1558456826405,30144,BuyBook,200,,stand-alone Test 1-49,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30144,0,0
+1558456840280,30292,SearchBooks,200,,stand-alone Test 1-63,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30284,0,122
+1558456840277,30303,SearchBooks,200,,stand-alone Test 1-79,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30299,0,64
+1558456840275,30312,SearchBooks,200,,stand-alone Test 1-77,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,30310,0,67
+1558456809933,30467,BuyBook,302,,stand-alone Test 1-90,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30467,0,0
+1558456810376,60384,BuyBook,200,,stand-alone Test 1-94,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,60384,0,0
+1558456840411,31109,SearchBooks,200,,stand-alone Test 1-5,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,30799,0,52
+1558456840540,31118,GetBook,200,,stand-alone Test 1-47,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,30675,0,52
+1558456810073,30418,BuyBook,302,,stand-alone Test 1-99,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30418,0,0
+1558456840730,31927,SearchBooks,200,,stand-alone Test 1-28,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,31927,0,162
+1558456840787,31976,BuyBook,200,,stand-alone Test 1-98,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,31973,0,0
+1558456840731,32686,GetBook,200,,stand-alone Test 1-65,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,32686,0,163
+1558456840761,32658,SearchBooks,200,,stand-alone Test 1-51,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,32657,0,143
+1558456810107,30980,BuyBook,302,,stand-alone Test 1-33,,true,,320,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,30980,0,0
+1558456840669,32751,BuyBook,200,,stand-alone Test 1-24,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,32751,0,0
+1558456840709,33545,GetBook,200,,stand-alone Test 1-19,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,33545,0,65
+1558456841345,34981,BuyBook,200,,stand-alone Test 1-34,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,34611,0,0
+1558456842088,39032,SearchBooks,200,,stand-alone Test 1-89,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,36935,0,68
+1558456841233,40104,BuyBook,200,,stand-alone Test 1-15,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,39887,0,0
+1558456841887,41446,SearchBooks,200,,stand-alone Test 1-96,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,40942,0,61
+1558456840698,45829,SearchBooks,200,,stand-alone Test 1-97,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,45125,0,75
+1558456841290,45241,BuyBook,200,,stand-alone Test 1-35,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,43624,0,0
+1558456840999,47916,SearchBooks,200,,stand-alone Test 1-43,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,47717,0,112
+1558456840733,52191,SearchBooks,200,,stand-alone Test 1-20,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,51895,0,161
+1558456841335,54184,BuyBook,200,,stand-alone Test 1-85,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,52648,0,0
+1558456871657,27466,Login,200,,stand-alone Test 1-47,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,23362,0,292
+1558456873417,25909,Login,200,,stand-alone Test 1-65,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,22104,0,201
+1558456874253,25073,Login,200,,stand-alone Test 1-19,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,21873,0,102
+1558456842377,57954,BuyBook,200,,stand-alone Test 1-41,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,57145,0,0
+1558456840761,65653,SearchBooks,200,,stand-alone Test 1-93,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,65356,0,133
+1558456840733,67295,SearchBooks,200,,stand-alone Test 1-23,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,66989,0,161
+1558456840691,71243,SearchBooks,200,,stand-alone Test 1-87,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,70035,0,72
+1558456841305,74250,SearchBooks,200,,stand-alone Test 1-71,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,73559,0,71
+1558456840754,82777,SearchBooks,200,,stand-alone Test 1-100,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,81474,0,140
+1558456841768,81769,SearchBooks,200,,stand-alone Test 1-36,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,81649,0,116
+1558456841756,82964,SearchBooks,200,,stand-alone Test 1-12,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,82573,0,106
+1558456840735,84786,SearchBooks,200,,stand-alone Test 1-78,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,84480,0,159
+1558456840754,84965,SearchBooks,200,,stand-alone Test 1-16,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,84866,0,147
+1558456841252,84667,BuyBook,200,,stand-alone Test 1-26,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,84366,0,0
+1558456840493,89631,SearchBooks,200,,stand-alone Test 1-29,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,89234,0,61
+1558456840699,90420,SearchBooks,200,,stand-alone Test 1-55,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,89527,0,74
+1558456841124,92794,SearchBooks,200,,stand-alone Test 1-84,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,92713,0,86
+1558456810904,127936,BuyBook,200,,stand-alone Test 1-10,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,127515,0,0
+1558456840779,102552,SearchBooks,200,,stand-alone Test 1-37,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=政治,101735,0,247
+1558456840779,106439,SearchBooks,200,,stand-alone Test 1-54,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,106241,0,246
+1558456841580,139137,SearchBooks,200,,stand-alone Test 1-48,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,137442,0,53
+1558456840930,163583,SearchBooks,200,,stand-alone Test 1-40,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,163091,0,170
+1558456841029,165300,SearchBooks,200,,stand-alone Test 1-11,text,true,,388,153,100,100,http://39.100.96.6:8080/search?keyword=科幻,163304,0,116
+1558456810840,220879,BuyBook,200,,stand-alone Test 1-74,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,220677,0,0
+1558456840735,218782,GetBook,200,,stand-alone Test 1-64,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,218008,0,160
+1558456810840,253275,BuyBook,200,,stand-alone Test 1-80,text,true,,388,179,100,100,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,252779,0,0
+1558456841328,248389,GetBook,200,,stand-alone Test 1-17,text,true,,388,134,100,100,http://39.100.96.6:8080/getBook/?id=24,245486,0,52
+1558457059518,127906,Login,200,,stand-alone Test 1-64,text,true,,2114,153,100,100,http://39.100.96.6:8080/sign-in?username=101&password=101,123401,0,61
+1558457089718,102497,Login,200,,stand-alone Test 1-17,text,true,,2114,153,99,99,http://39.100.96.6:8080/sign-in?username=101&password=101,100803,0,54
+1558456841099,354049,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-50,text,false,,2059,0,98,98,http://39.100.96.6:8080/getBook/?id=24,0,0,95
+1558456870579,324572,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-79,text,false,,2059,0,97,97,http://39.100.96.6:8080/getBook/?id=24,0,0,94
+1558456840982,354170,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-31,text,false,,2059,0,97,97,http://39.100.96.6:8080/search?keyword=政治,0,0,123
+1558456841340,353813,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-1,text,false,,2059,0,97,97,http://39.100.96.6:8080/getBook/?id=24,0,0,51
+1558456841096,354057,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-30,text,false,,2059,0,96,96,http://39.100.96.6:8080/search?keyword=政治,0,0,67
+1558456840988,354165,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-76,text,false,,2059,0,96,96,http://39.100.96.6:8080/search?keyword=科幻,0,0,122
+1558456933918,261234,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-84,text,false,,2059,0,96,96,http://39.100.96.6:8080/getBook/?id=24,0,0,66
+1558456871519,323634,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-5,text,false,,2059,0,94,94,http://39.100.96.6:8080/getBook/?id=24,0,0,420
+1558456840865,354290,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-38,text,false,,2059,0,94,94,http://39.100.96.6:8080/getBook/?id=24,0,0,220
+1558457006329,188825,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-11,text,false,,2059,0,93,93,http://39.100.96.6:8080/getBook/?id=24,0,0,52
+1558456840865,354291,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-32,text,false,,2059,0,91,91,http://39.100.96.6:8080/getBook/?id=24,0,0,220
+1558456841094,354062,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-95,text,false,,2059,0,91,91,http://39.100.96.6:8080/search?keyword=科幻,0,0,69
+1558456841127,354030,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-58,text,false,,2059,0,90,90,http://39.100.96.6:8080/getBook/?id=24,0,0,82
+1558456925522,269635,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-78,text,false,,2059,0,90,90,http://39.100.96.6:8080/getBook/?id=24,0,0,50
+1558456841472,353686,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-82,text,false,,2059,0,89,89,http://39.100.96.6:8080/getBook/?id=24,0,0,56
+1558456900333,294829,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-41,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=政治,0,0,55
+1558456841091,354072,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-73,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=政治,0,0,72
+1558456911934,283220,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-87,text,false,,2059,0,89,89,http://39.100.96.6:8080/getBook/?id=24,0,0,53
+1558456842093,353061,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-81,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=政治,0,0,61
+1558456842091,353073,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-4,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=科幻,0,0,62
+1558456841767,353385,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-42,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=科幻,0,0,95
+1558456842378,352774,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-8,text,false,,2059,0,89,89,http://39.100.96.6:8080/search?keyword=政治,0,0,82
+1558456841030,354135,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-21,text,false,,2059,0,87,87,http://39.100.96.6:8080/search?keyword=政治,0,0,123
+1558456870760,324404,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-94,text,false,,2059,0,87,87,http://39.100.96.6:8080/search?keyword=科幻,0,0,604
+1558456930125,265040,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-29,text,false,,2059,0,87,87,http://39.100.96.6:8080/getBook/?id=24,0,0,241
+1558456947219,247947,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-54,text,false,,2059,0,85,85,http://39.100.96.6:8080/getBook/?id=24,0,0,50
+1558456840857,354310,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-27,text,false,,2059,0,84,84,http://39.100.96.6:8080/search?keyword=政治,0,0,169
+1558456841472,353696,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-25,text,false,,2059,0,82,82,http://39.100.96.6:8080/getBook/?id=24,0,0,59
+1558456840714,354455,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-6,text,false,,2059,0,78,78,http://39.100.96.6:8080/search?keyword=科幻,0,0,60
+1558456841332,353838,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-39,text,false,,2059,0,75,75,http://39.100.96.6:8080/getBook/?id=24,0,0,53
+1558456881338,313833,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-15,text,false,,2059,0,71,71,http://39.100.96.6:8080/search?keyword=科幻,0,0,50
+1558456841086,354067,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-69,text,false,,2059,0,70,70,http://39.100.96.6:8080/getBook/?id=24,0,0,71
+1558456888915,306249,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-43,text,false,,2059,0,68,68,http://39.100.96.6:8080/getBook/?id=24,0,0,233
+1558456881120,314052,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-89,text,false,,2059,0,67,67,http://39.100.96.6:8080/getBook/?id=24,0,0,51
+1558456841086,354087,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-60,text,false,,2059,0,66,66,http://39.100.96.6:8080/getBook/?id=24,0,0,74
+1558456876328,318845,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-34,text,false,,2059,0,65,65,http://39.100.96.6:8080/search?keyword=政治,0,0,324
+1558456908028,287147,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-23,text,false,,2059,0,65,65,http://39.100.96.6:8080/getBook/?id=24,0,0,180
+1558456923537,271638,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-36,text,false,,2059,0,65,65,http://39.100.96.6:8080/getBook/?id=24,0,0,55
+1558456895520,299657,SearchBooks,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 8,192; actual size: 7,835)",stand-alone Test 1-85,text,false,,1270,0,64,64,http://39.100.96.6:8080/search?keyword=科幻,295004,0,61
+1558456841305,353874,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-56,text,false,,2059,0,61,61,http://39.100.96.6:8080/search?keyword=科幻,0,0,70
+1558456841889,353291,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-83,text,false,,2059,0,60,60,http://39.100.96.6:8080/search?keyword=政治,0,0,59
+1558456841331,353852,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-68,text,false,,2059,0,60,60,http://39.100.96.6:8080/search?keyword=政治,0,0,52
+1558456899327,295857,BuyBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-19,text,false,,2059,0,58,58,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,0,0,49
+1558456841123,354089,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-91,text,false,,2059,0,58,58,http://39.100.96.6:8080/getBook/?id=24,0,0,87
+1558456841029,354185,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-14,text,false,,2059,0,57,57,http://39.100.96.6:8080/search?keyword=政治,0,0,116
+1558457004513,190702,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-40,text,false,,2059,0,56,56,http://39.100.96.6:8080/getBook/?id=24,0,0,53
+1558456873422,321763,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-24,text,false,,2059,0,55,55,http://39.100.96.6:8080/search?keyword=科幻,0,0,196
+1558456870571,324652,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-63,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,102
+1558456840881,354343,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-3,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,206
+1558456841579,353645,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-57,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,55
+1558456870587,324637,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-77,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,89
+1558456842095,353130,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-86,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,64
+1558456915555,279670,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-71,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,52
+1558456883333,311892,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-96,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,52
+1558456886534,308691,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-35,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=政治,0,0,262
+1558456841064,354162,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-61,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,96
+1558456810432,384794,BuyBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-7,text,false,,2059,0,54,54,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,0,0,145
+1558456871660,323565,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-99,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=政治,0,0,289
+1558456841007,354220,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-45,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,110
+1558456872763,322463,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-98,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,108
+1558456840997,354230,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-92,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=政治,0,0,114
+1558456906413,288814,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-93,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,54
+1558456856555,338674,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-49,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,64
+1558456924720,270510,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-12,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,58
+1558456892927,302307,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-20,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,57
+1558456841087,354147,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-2,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,76
+1558456931119,264116,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-55,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,56
+1558456840774,354462,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-75,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,252
+1558456840927,354305,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-53,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=政治,0,0,171
+1558456925920,269311,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-26,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,50
+1558456899327,295902,BuyBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-65,text,false,,2059,0,54,54,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,0,0,56
+1558456841332,353900,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-66,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=科幻,0,0,51
+1558456938842,256388,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-10,text,false,,2059,0,54,54,http://39.100.96.6:8080/search?keyword=政治,0,0,81
+1558456872656,322558,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-28,text,false,,2059,0,54,54,http://39.100.96.6:8080/getBook/?id=24,0,0,56
+1558457031720,163519,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-74,text,false,,2059,0,53,53,http://39.100.96.6:8080/search?keyword=科幻,0,0,54
+1558456842085,353155,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-62,text,false,,2059,0,50,50,http://39.100.96.6:8080/getBook/?id=24,0,0,71
+1558456841005,354237,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-72,text,false,,2059,0,47,47,http://39.100.96.6:8080/search?keyword=政治,0,0,112
+1558456943331,251853,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-37,text,false,,2059,0,39,39,http://39.100.96.6:8080/getBook/?id=24,0,0,417
+1558456980720,214526,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-48,text,false,,2059,0,39,39,http://39.100.96.6:8080/getBook/?id=24,0,0,56
+1558457064118,131128,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-80,text,false,,2059,0,39,39,http://39.100.96.6:8080/search?keyword=政治,0,0,51
+1558456873418,321827,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-51,text,false,,2059,0,39,39,http://39.100.96.6:8080/getBook/?id=24,0,0,200
+1558456899124,296122,BuyBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-47,text,false,,2059,0,39,39,http://39.100.96.6:8080/purchaseBookTest?bookId=14&balance=true&number=1&userId=101,0,0,54
+1558456925719,269509,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-16,text,false,,2059,0,39,39,http://39.100.96.6:8080/getBook/?id=24,0,0,77
+1558456923534,271692,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-100,text,false,,2059,0,36,36,http://39.100.96.6:8080/getBook/?id=24,0,0,57
+1558456870759,324489,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-90,text,false,,2059,0,34,34,http://39.100.96.6:8080/search?keyword=政治,0,0,606
+1558456840789,354437,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-22,text,false,,2059,0,34,34,http://39.100.96.6:8080/getBook/?id=24,0,0,237
+1558456886527,308698,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-97,text,false,,2059,0,34,34,http://39.100.96.6:8080/getBook/?id=24,0,0,270
+1558456840728,354498,GetBook,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-52,text,false,,2059,0,34,34,http://39.100.96.6:8080/getBook/?id=24,0,0,163
+1558456873422,321791,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-33,text,false,,2059,0,30,30,http://39.100.96.6:8080/search?keyword=政治,0,0,196
+1558456842093,353131,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-88,text,false,,2059,0,28,28,http://39.100.96.6:8080/search?keyword=政治,0,0,64
+1558456841342,353898,SearchBooks,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 39.100.96.6:8080 failed to respond,stand-alone Test 1-59,text,false,,2059,0,23,23,http://39.100.96.6:8080/search?keyword=政治,0,0,58
