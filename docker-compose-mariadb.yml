@@ -1,0 +1,23 @@
+version: '3.3'
+services:
+  db:
+    image: mariadb
+    container_name: mariadb-1
+    #以下开放端口为节点间数据同步需要
+    ports:
+     - "3306:3306"
+     - "4567:4567"
+     - "4568:4568"
+     - "4444:4444"
+    #数据库集群第一个节点启动命令
+    #command: ["systemctl", "start", "mysql", "--wsrep-new-cluster"]
+    command: ["systemctl", "start", "mysql"]
+    volumes:
+      #挂载数据库配置
+      - mariadb_conf:/etc/mysql
+      #挂载数据库数据
+      - mariadb_data:/var/lib/mysql
+
+volumes:
+  mariadb_conf: 
+  mariadb_data: 

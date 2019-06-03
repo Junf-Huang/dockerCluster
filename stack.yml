@@ -1,0 +1,96 @@
+version: '3.3'
+services:
+  nginx:
+    image: nginx
+    privileged: true
+    volumes:
+      - nginx-conf:/etc/nginx/
+      - nginx-html:/usr/share/nginx/html
+    #cluster里所有80,443 port都被绑定
+    ports:
+      - "80:80"     
+      - "443:443"   #https
+    networks: 
+      - net1
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      placement:
+        constraints:
+          - node.labels.role == nginx
+      #resources:
+        #limits:
+          # 限制所有服务的CPU使用，这样可以防止单个容器占用主机的所有的CPU资源
+        #  cpus: "0.1"
+        #  memory: 50M 
+
+  web:  
+    image: junf/bookstore   #镜像名字
+    privileged: true
+    ports:
+     - "8080:8080"
+    environment:
+      MYSQL_HOST: bookstore_hapdb:3307   #服务名:端口
+      MYSQL_DATABASE: bookstore
+      MYSQL_USER: hjj    
+      MYSQL_PASSWORD: hjj  
+    depends_on:   #决定镜像生成容器的启动顺序
+      - hapdb
+    #Setting the timeout value to 0 will disable the timeout;
+    #If you wish to execute the subcommand only if the service is up, add the --strict argument. 
+    command: ["./wait-for-it.sh", "--timeout=0", "bookstore_hapdb:3307", "--strict", "--", "java", "-jar", "/app.jar"]
+    networks: 
+      - net1
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        max_attempts: 3
+      update_config:
+        delay: 5s
+      placement:
+        constraints:
+        # 只在key键role值为web的node运行容器
+          - node.labels.role == web
+  hapdb:
+    image: junf/haproxy
+    privileged: true
+    volumes:
+      - redis-conf:/etc/redis.conf
+      - redis-data:/data
+    ports:
+     - "1080:1080"
+     - "3307:3307"
+    networks: 
+      - net1
+    deploy:
+      replicas: 1 
+      restart_policy:
+        condition: on-failure
+      placement:
+        constraints:
+          - node.labels.role == hapdb
+    
+  cache:
+    image: redis    
+    privileged: true
+    ports:
+     - "6379:6379"
+    networks:
+     - net1
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+
+networks:
+  net1:
+    driver: overlay
+    attachable: true
+
+volumes:
+  nginx-conf: 
+  nginx-html:
+  redis-cond:
+  resid-data:
